@@ -23,6 +23,15 @@
                 "dbaeumer.vscode-eslint",
                 "ms-azuretools.vscode-azurefunctions"
             ]
+        },
+        "codespaces": {
+            "repositories": {
+                "vhvb1989/todo-nodejs-mongo": {
+                    "permissions": {
+                        "actions": "write"
+                    }
+                }
+            }
         }
     },
     "forwardPorts": [
